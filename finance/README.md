@@ -8,17 +8,7 @@ The goal of this project is to demonstrate strong frontend fundamentals, structu
 
 ⸻
 
-🚀 Live Demo
 
-👉 [Add your deployed link here]
-
-⸻
-
-📂 Repository
-
-👉 [Add your GitHub repository link here]
-
-⸻
 
 🧠 Key Features
 
@@ -162,18 +152,3 @@ This project intentionally uses Vanilla JS to:
 
 This project reflects a practical approach to building a real-world dashboard interface with a focus on usability, structure, and clean code.
 
-It demonstrates the ability to design, structure, and implement a frontend system thoughtfully rather than relying solely on frameworks.
-
-⸻
-
-⭐ If you found this project interesting, feel free to explore and improve it!
-:::
-
-⸻
-
-🔥 What You Should Do Now
-
-1. Replace demo link
-2. Replace GitHub link
-3. Push to repo
-4. Submit 🚀
