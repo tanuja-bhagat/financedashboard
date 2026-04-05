@@ -1,8 +1,8 @@
-💸 BreezeFin — Finance Dashboard UI
+💸 TanuFin — Finance Dashboard UI
 
 📌 Overview
 
-BreezeFin is a clean and responsive Finance Dashboard UI designed to help users track their financial activity, including balance, income, expenses, and transactions.
+TanuFin is a clean and responsive Finance Dashboard UI designed to help users track their financial activity, including balance, income, expenses, and transactions.
 
 The goal of this project is to demonstrate strong frontend fundamentals, structured state management, and intuitive UI/UX design without relying on heavy frameworks.
 
